@@ -1,1 +1,1 @@
-# Calculator_Project
+# A calculator project involves designing and implementing software that performs mathematical calculations. This typically includes a user interface for inputting numbers and operations, processing the input, executing the requested operations, and displaying the results. The project may involve various features such as basic arithmetic operations (addition, subtraction, multiplication, division)and possibly graphical representation of data.
